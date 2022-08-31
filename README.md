@@ -6,7 +6,7 @@ Thanks for visiting me. I’m a full stack api caller. 🤣
 - I’m currently learning VUE@3.
 - You can contact me with: ltymxty@gmail.com
 
-Recently looking for a new opportunity.Feel free to ask me anythings.💬
+Recently looking for a new opportunity.Feel free to ask me anything.💬
 
 ps. my skills are:
 - vue2, vue-router, vuex, less, sass, echart
