@@ -9,7 +9,7 @@ Thanks for visiting me. I’m a full stack api caller. 🤣
 Recently looking for a new opportunity.Feel free to ask me anythings.💬
 
 ps. my skills are:
-- vue2, vue-router, vuex, less, sass
+- vue2, vue-router, vuex, less, sass, echart
 - java, spring boot, mybatis
 - jenkins, docker
 
