@@ -2,7 +2,7 @@
 
 Thanks for visiting me. I’m a full stack api caller. 🤣
 
-- I’m currently working at Thunisoft.
+- I’m currently working at Thunisoft(DaLian China).
 - I’m currently learning VUE@3.
 - You can contact me with: ltymxty@gmail.com
 
