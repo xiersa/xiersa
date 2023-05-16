@@ -3,10 +3,10 @@
 Thanks for visiting me. I’m a full stack api caller. 🤣
 
 - I’m currently working at Thunisoft(DaLian China).
-- I’m trying to learn webgl recently.
+- I’m trying to learn three.js recently.
 - You can contact me with: ltymxty@gmail.com
 
-And I’m looking for a new opportunity now.Feel free to ask me anything.💬
+And I’m looking for a new opportunity now. Feel free to ask me anything.💬
 
 ps. my skills are:
 - vue2/3, vue-router, vuex, less, sass, echart
