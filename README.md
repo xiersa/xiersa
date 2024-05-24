@@ -2,7 +2,7 @@
 
 Thanks for visiting me. I’m a full stack api caller. 🤣
 
-- I’m currently working at Thunisoft(DaLian China).
+- I’m currently working at IT FORCE(DaLian China).
 - I’m trying to learn three.js recently.
 - You can contact me with: ltymxty@gmail.com
 
